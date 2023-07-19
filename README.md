@@ -7,7 +7,7 @@
 ---
 
 - ❓[More about me](https://linktr.ee/timrashard)
-- 💼[My projects](https://github.com/SamedTemiz?tab=repositories){:target="_blank" rel="noopener"}
+- 💼[My projects](external.ink?to=https://github.com/SamedTemiz?tab=repositories)
 
 ---
 
