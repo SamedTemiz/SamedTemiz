@@ -16,7 +16,7 @@
   
 ---
 
-### Monthly Update
+### Monthly Update (Last update: 19 July 2023)
 
 - I started learning Kotlin. For this, I am trying to finish various courses.
 - I just started food information app project and i'll create five activity page for this.
