@@ -21,4 +21,4 @@
 - I started learning Kotlin. For this, I am trying to finish various courses.
 - I just started food information app project and i'll create five activity page for this.
 - Users can calculate calories of food and own bodies.
-- In the future, the app may provide users with recipes.
+  - In the future, the app may provide users with recipes.
