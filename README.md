@@ -6,13 +6,13 @@
   
 ---
 
-- ❓[More about me](https://linktr.ee/timrashard)
+- ❓[More about me](https://linktr.ee/SamedTemiz)
 - 💼[My projects](https://github.com/SamedTemiz?tab=repositories)
 
 ---
 
 - I am open to job offers:
-  - [For contact](https://linktr.ee/timrashard)
+  - [For contact](https://linktr.ee/SamedTemiz)
   
 ---
 
