@@ -11,7 +11,7 @@
 ---
 
 - I am open to job offers:
-  - [For contact](https://linktr.ee/SamedTemiz)
+  - [For contact](https://www.linkedin.com/in/samed-temiz-389aa0196/)
   
 ---
 
