@@ -7,7 +7,7 @@
 ---
 
 - ❓[More about me](https://linktr.ee/timrashard)
-- 💼[My Projects](https://github.com/SamedTemiz?tab=repositories)
+- 💼[My Projects](https://github.com/SamedTemiz?tab=repositories:target="_blank")
 
 ---
 
