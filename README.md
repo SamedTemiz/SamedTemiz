@@ -12,7 +12,7 @@
 ---
 
 - I am open to job offers:
-  -[For contact](https://linktr.ee/timrashard)
+  - [For contact](https://linktr.ee/timrashard)
   
 ---
 
