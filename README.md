@@ -8,7 +8,6 @@
 
 - ❓[More about me](https://linktr.ee/timrashard)
 - 💼[My projects](https://github.com/SamedTemiz?tab=repositories)
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 
 ---
 
