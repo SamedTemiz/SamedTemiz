@@ -15,9 +15,9 @@
   
 ---
 
-### Monthly Update (Last update: 22 July 2023) 
+### Monthly Update (Last update: 13 August 2023) 
 
-- I started learning Kotlin. For this, I am trying to finish various courses.
+- I completed the trainings I received from Udemy for Android and Kotlin and earned a certificate.
 - I just started food information app project and i'll create five activity page for this.
 - Users can calculate calories of food and own bodies.
   - In the future, the app may provide users with recipes.
