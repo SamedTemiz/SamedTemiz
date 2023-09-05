@@ -1,6 +1,6 @@
 # Hi there, I'm Samed 👋
 ## I am a [software engineer, android developer](https://www.linkedin.com/in/samed-temiz-389aa0196/).
-- 🔭 I am currently doing **internship** at _Manisa Celal Bayar University_.
+- 🔭 I completed my internship** at Manisa Celal Bayar University.
 - 🌱 I am learning android programming with **Kotlin**.
   
 ---
@@ -15,10 +15,9 @@
   
 ---
 
-### Monthly Update (Last update: 13 August 2023) 
+### Monthly Update (Last update: 5 September 2023) 
 
-- I completed the trainings I received from Udemy for Android and Kotlin and earned a certificate.
-- I just started food information app project and i'll create five activity page for this.
-- Users can calculate calories of food and own bodies.
-  - In the future, the app may provide users with recipes.
-- Current project link -> [Gastronomy Guide](https://github.com/SamedTemiz/GastronomyGuide)
+- My current project is almost completed
+- I made 5 different screen designs
+  - You can learn the details on my project page.
+- Current project link -> [FitLife](https://github.com/SamedTemiz/FitLife)
