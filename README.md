@@ -15,9 +15,7 @@
   
 ---
 
-### Monthly Update (Last update: 5 September 2023) 
+### Monthly Update (Last update: 7 October 2023) 
 
-- My current project is almost completed
-- I made 5 different screen designs
-  - You can learn the details on my project page.
+- The current project will be published on Play Store
 - Current project link -> [FitLife](https://github.com/SamedTemiz/FitLife)
