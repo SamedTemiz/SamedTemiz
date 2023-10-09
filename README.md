@@ -19,3 +19,9 @@
 
 - The current project will be published on Play Store
 - Current project link -> [FitLife](https://github.com/SamedTemiz/FitLife)
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samedtemiz&show_icons=true&locale=en" alt="samedtemiz" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samedtemiz&show_icons=true&locale=en&layout=compact" alt="samedtemiz" /></p>
