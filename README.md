@@ -1,4 +1,4 @@
-# Hi there, I'm Samed 👋
+# Hi there, I'm Sam 👋
 ## I am a [software engineer, android developer](https://www.linkedin.com/in/samed-temiz-389aa0196/).
 - 🔭 I completed my internship** at Manisa Celal Bayar University.
 - 🌱 I am learning android programming with **Kotlin**.
