@@ -10,14 +10,15 @@
 
 ---
 
-- I am open to job offers:
+- I am open to job offers: (I am currently looking for a long-term internship.)
   - [For contact](https://www.linkedin.com/in/samed-temiz-389aa0196/)
   
 ---
 
-### Monthly Update (Last update: 7 October 2023) 
+### Monthly Update (Last update: 6 November 2023) 
 
-- The current project will be published on Play Store
-- Current project link -> [FitLife](https://github.com/SamedTemiz/FitLife)
+- I started a mobile application project, currently called SigmaWords.
+- It will be an English vocabulary learning application for native Turkish speakers.
+- Project link -> [SigmaWords](https://github.com/SamedTemiz/SigmaWords)
 
 ---
