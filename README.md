@@ -15,10 +15,9 @@
   
 ---
 
-### Monthly Update (Last update: 6 November 2023) 
+### Monthly Update (Last update: 12 December 2023) 
 
-- I started a mobile application project, currently called SigmaWords.
-- It will be an English vocabulary learning application for native Turkish speakers.
-- Project link -> [SigmaWords](https://github.com/SamedTemiz/SigmaWords)
+- I'm currently developing my thesis project whiches "AI Powered Online Shopping Bot - Chatbot"
+- I'm share my previous project on GitHub, you can access the source files on this link -> [SigmaWords](https://github.com/SamedTemiz/SigmaWords)
 
 ---
