@@ -1,6 +1,6 @@
 # Hi there, I'm Sam 👋
 ## I am a [software engineer, android developer](https://www.linkedin.com/in/samed-temiz-389aa0196/).
-- 🔭 I completed my internship** at Manisa Celal Bayar University.
+- 🔭 I started my internship in the mobile development department.
 - 🌱 I am learning android programming with **Kotlin**.
   
 ---
@@ -15,9 +15,9 @@
   
 ---
 
-### Monthly Update (Last update: 12 December 2023) 
+### Monthly Update (Last update: 4 February 2024) 
 
-- I'm currently developing my thesis project whiches "AI Powered Online Shopping Bot - Chatbot"
-- I'm share my previous project on GitHub, you can access the source files on this link -> [SigmaWords](https://github.com/SamedTemiz/SigmaWords)
+- I started my internship at BilgiYön software.
+- I will work on Android programming with Java.
 
 ---
