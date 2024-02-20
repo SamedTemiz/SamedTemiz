@@ -1,7 +1,6 @@
 # Hi there, I'm Samed 👋
 ## I am a [software engineer, android developer](https://www.linkedin.com/in/samed-temiz-389aa0196/).
-- 🔭 I started my internship in the mobile development department.
-- 🌱 I am learning android programming with **Kotlin**.
+- 🔭 🌱 I am learning android programming with **Kotlin**.
   
 ---
 
