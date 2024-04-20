@@ -9,14 +9,14 @@
 
 ---
 
-- I am open to job offers: (I am currently looking for a long-term internship.)
+- I am open to job offers: 
   - [For contact](https://www.linkedin.com/in/samed-temiz-389aa0196/)
   
 ---
 
-### Monthly Update (Last update: 4 February 2024) 
+### Monthly Update (Last update: 20 April 2024) 
 
-- I started my internship at BilgiYön software.
-- I will work on Android programming with Java.
+- I'm currently developing Android application for my current company. This is a Android Kotlin project, using some location services and rest api etc.
+- I will work on Android programming with Java and Kotlin.
 
 ---
