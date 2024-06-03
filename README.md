@@ -14,9 +14,11 @@
   
 ---
 
-### Monthly Update (Last update: 20 April 2024) 
+### Monthly Update (Last update: 03 June 2024) 
 
-- I'm currently developing Android application for my current company. This is a Android Kotlin project, using some location services and rest api etc.
-- I will work on Android programming with Java and Kotlin.
+- I completed the internship program on the BilgiYön Yazılım.
+- I've learn many things about Android development, especially debugging codes, old Android Sdk's etc.
+- I just graduated from engineering department.
+- Now I'm looking for a job about Android Development.
 
 ---
