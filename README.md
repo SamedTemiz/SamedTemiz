@@ -4,7 +4,7 @@
   
 ---
 
-- ❓[More about me](https://linktr.ee/SamedTemiz)
+- ❓[More about me](https://samedtemiz.github.io)
 - 💼[My projects](https://github.com/SamedTemiz?tab=repositories)
 
 ---
