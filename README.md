@@ -1,6 +1,7 @@
 # Hi there, I'm Samed 👋
 ## I am a [Software Engineer, Android Developer](https://www.linkedin.com/in/samed-temiz-389aa0196/).
 - 🔭 🌱 I am learning android programming with **Kotlin**.
+- 🔭 💼 As a new graduate, I am looking for a job where I can improve myself and use my experience.
   
 ---
 
@@ -10,15 +11,13 @@
 ---
 
 - I am open to job offers: 
-  - [For contact](https://www.linkedin.com/in/samed-temiz-389aa0196/)
+  - [For contact](https://www.linkedin.com/in/samed-temiz/)
   
 ---
 
-### Monthly Update (Last update: 03 June 2024) 
+### Monthly Update (Last update: 14 August 2024) 
 
-- I completed the internship program on the BilgiYön Yazılım.
-- I've learn many things about Android development, especially debugging codes, old Android Sdk's etc.
-- I just graduated from engineering department.
-- Now I'm looking for a job about Android Development.
+- I'm joined a new bootcamp on TechCareer about Jetpack Compose. 
+- Bootcamp lasts approximately 50 hours and a graduation project is required at the end of the training.
 
 ---
